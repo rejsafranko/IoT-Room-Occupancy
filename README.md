@@ -3,7 +3,7 @@
 This project focuses on detecting room occupancy based on IoT sensor data using machine learning. It includes data cleaning, feature selection, modeling with hyperparameter optimization, and model interpretation.
 
 <div align="center">
-<img src="board.png" alt="Board" />
+<img src="board.png" alt="Board" width="500px" height="350px"/>
 </div>
 
 
