@@ -1,4 +1,4 @@
-# IoT Room Occupancy Detection
+# Room Occupancy Detection
 
 This project focuses on detecting room occupancy based on IoT sensor data using machine learning. It includes data cleaning, feature selection, modeling with hyperparameter optimization, and model interpretation.
 
